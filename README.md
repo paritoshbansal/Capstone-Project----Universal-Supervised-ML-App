@@ -1,6 +1,9 @@
 # 🤖 Universal Supervised ML App
 An intelligent Streamlit-based AutoML app that automatically detects whether your task is **regression** or **classification**, trains multiple models, evaluates them, and visualizes results — all in one click!
 
+👉 **[Try the Live App](https://capstone-project----universal-supervised-ml-app-6njqtheb6k7s7s.streamlit.app/)**
+
+
 ## 🚀 Features
 ✅ Auto-detects task type (classification or regression)  
 ✅ Trains multiple models and selects the best  
