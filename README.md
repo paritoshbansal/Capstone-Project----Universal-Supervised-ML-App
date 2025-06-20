@@ -14,16 +14,22 @@ An intelligent Streamlit-based AutoML app that automatically detects whether you
 ✅ Export results with one click  
 
 ## 📥 Input Format
-✅ Upload your training data CSV
-✅ Select the target (dependent) variable
-✅ (Optional) Upload future data for predictions
+- ✅ Upload your training data CSV
+- ✅ Select the target (dependent) variable
+- ✅ (Optional) Upload future data for predictions
 
 ## 📤 Output
-✅ Best model name and score
-✅ Evaluation plots (e.g., Confusion Matrix, Residual Plot)
-✅ CSV download of future predictions
+- ✅ Best model name and score
+- ✅ Evaluation plots (e.g., Confusion Matrix, Residual Plot)
+- ✅ CSV download of future predictions
 
 ## 🛠 Example Use Cases
-✅ Titanic dataset (classification)
-✅ House price prediction (regression)
-✅ Customer churn, loan default, etc.
+- ✅ Titanic dataset (classification)
+- ✅ House price prediction (regression)
+- ✅ Customer churn, loan default, etc.
+
+## 📊 Tech Stack
+- [Python 3.8+](https://www.python.org/)
+- [Streamlit](https://streamlit.io/)
+- [scikit-learn](https://scikit-learn.org/)
+- pandas, NumPy, seaborn, matplotlib
