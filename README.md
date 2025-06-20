@@ -10,17 +10,17 @@ An intelligent Streamlit-based AutoML app that automatically detects whether you
 ✅ Upload future datasets to generate predictions  
 ✅ Export results with one click  
 
-📥 Input Format
+## 📥 Input Format
 ✅ Upload your training data CSV
 ✅ Select the target (dependent) variable
 ✅ (Optional) Upload future data for predictions
 
-📤 Output
+## 📤 Output
 ✅ Best model name and score
 ✅ Evaluation plots (e.g., Confusion Matrix, Residual Plot)
 ✅ CSV download of future predictions
 
-🛠 Example Use Cases
+## 🛠 Example Use Cases
 ✅ Titanic dataset (classification)
 ✅ House price prediction (regression)
 ✅ Customer churn, loan default, etc.
